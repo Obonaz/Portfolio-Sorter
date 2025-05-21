@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+pip-log.txt
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs (if not intended to be committed, though our app logs might be different)
+# logs/*.log (Be careful if you want to commit example logs or specific logs)
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
